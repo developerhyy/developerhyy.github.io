@@ -10,7 +10,6 @@ hexo-theme-yilia-plus配置Demo
 > **欢迎使用和Star支持，如使用过程中碰到问题，可以提出Issue，我会尽力完善**
 
 ## 介绍
-- new one
 - 功能还很少，欢迎各位给我提意见和建议~
 - [集成 gitment 评论例子](https://joeybling.github.io/yilia-plus-demo/) | [集成码云评论例子](https://zhousiwei.gitee.io/yilia-plus-demo/)
 
